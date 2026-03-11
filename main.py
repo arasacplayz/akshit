@@ -47,6 +47,6 @@ async def on_message(msg):
 
 
 
+api_key = os.getenv('DISCORD_TOKEN')
 
-
-bot.run(cofig.token)
+bot.run(api_key)
