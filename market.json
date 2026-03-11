@@ -1,0 +1,49 @@
+{
+    "laptop": {
+        "emoji": ":computer:",
+        "description": "Required to work as a programmer",
+        "price": 5500
+    },
+    "hammer": {
+        "emoji": ":hammer_pick:",
+        "description":"Required to work as a builder",
+        "price": 2500
+    },
+    "dpad": {
+        "emoji": ":notepad_spiral:",
+        "description":"Required to work as a designer",
+        "price": 1500
+    },
+    "shovel": {
+        "emoji": ":pick:",
+        "description": "Required to dig. Hygiene Purposes",
+        "price": 3500
+
+    },
+    "hunting rifle": {
+        "emoji": ":gun:",
+        "description": "Required for hunting",
+        "price": 5000
+
+    }, 
+    "gaming pc": {
+        "emoji": ":desktop:",
+        "description": "A beast PC for gamers. Required to work as a Valoyer",
+        "price": 7000
+    }, 
+    "fishing pole": {
+        "emoji": ":fishing_pole:",
+        "description": "Required to fish. Putting your hand in dangerous",
+        "price": 4000
+    },
+    "harry puttar's jhadu": {
+        "emoji": ":broom:",
+        "description": "Harry Puttar's broom for Ambani",
+        "price": 90000
+    },
+    "rawkit": {
+        "emoji": ":rocket:",
+        "description": "Hawai Yantra",
+        "price": 700000
+    }
+}

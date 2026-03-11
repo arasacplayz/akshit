@@ -1,0 +1,50 @@
+{
+  "youtuber": {
+    "salary": 1000,
+    "description": "Work as a youtuber and earn money by uploading videos.",
+    "level-required": 0,
+    "item-required": "none"
+  },
+  "streamer": {
+    "salary": 2000,
+    "description": "Work as a streamer and earn money by streaming.",
+    "level-required": 4,
+    "item-required": "none"
+  },
+  "designer": {
+    "salary": 3000,
+    "description": "Work as a designer and earn money by designing.",
+    "level-required": 6,
+    "item-required": ":notepad_spiral: dpad"
+  },
+  "builder": {
+    "salary": 5000,
+    "description": "Work as a builder and earn money by building.",
+    "level-required": 8,
+    "item-required": ":hammer_pick: hammer"
+  },
+  "programmer": {
+    "salary": 7000,
+    "description": "Work as a programmer and earn money by coding.",
+    "level-required": 10,
+    "item-required": ":computer: laptop"
+  },
+  "valoyer": {
+    "salary": 11000,
+    "description": "Work as a valorant player and earn money by playing",
+    "level-required": 14,
+    "item-required": ":desktop: gaming pc"
+  },
+  "ambani's worker": {
+    "salary": 100000,
+    "description": "Chup Chap Jhadu Pocha kar.",
+    "level-required": 25,
+    "item-required": ":broom: harry puttar's jhadu"
+  },
+  "elon musk": {
+    "salary": 1000000,
+    "description": "Lots of Bakwas",
+    "level-required": 30,
+    "item-required": ":rocket: rawkit"
+  }
+}
